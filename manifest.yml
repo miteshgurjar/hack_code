@@ -1,0 +1,6 @@
+applications:
+- name: new-world
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
